@@ -1,22 +1,22 @@
 ---
 title: " "
 header:
-  image: /assets/images/niubanner.png
+  image: /assets/images/Headshot.JPG
 ---
 
 # Welcome​
 
-<img src="https://github.com/ECON-691/Jekyll-for-Job-Market/blob/master/assets/images/fancyMission.jpg?raw=true" width="50%" hspace="20" align="right">
+<img src="https://github.com/Nelly-Gil/jready/blob/master/assets/images/Headshot.jpg?raw=true" width="50%" hspace="20" align="right">
 
 *This unofficial profile was created as a demo of a job market website in Jekyll, hosted on GitHub Pages.*
 
-My name is Mission III, and I am the official Huskie mascot at Northern Illinois University.
+My name is Nelly Dayan Gil, and I am the a third-year Economics student with a Financial Emphasis and a Computer Science Minor at Northern Illinois University.
 
-I am a Siberian Husky with striking blue eyes and beautiful black-and-white markings. My role includes boosting school spirit, entertaining crowds, and representing NIU at various events.
+I am a driven economics major at Northern Illinois University with a strong foundation in finance, analytical modeling, and business strategy. Experienced in applying financial concepts through hands-on coursework and internship preparation, with growing skills in data analysis and computer science. I am focused on developing a career in wealth management, supported by strong communication abilities, a proactive work ethic, and a commitment to continuous growth.
 
 ### Background
 
-I was born in British Columbia, Canada, and joined the NIU family when I was three months old. I come from a line of champion dogs known for their great temperaments and love for children. My breeder gave me special training to prepare me for my important role as a university mascot.
+I was born in Palmira, Colombia and joined the NIU family when I was three months old. I come from a line of champion dogs known for their great temperaments and love for children. My breeder gave me special training to prepare me for my important role as a university mascot.
 
 Before coming to NIU, I received early socialization training to help me adapt to various situations. This included exposure to hats, coats, loud noises, and other novel experiences. I'm known for my bravery and eagerness to try new things, which are essential qualities for a mascot who often faces unexpected situations.
 
