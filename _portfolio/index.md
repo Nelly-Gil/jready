@@ -9,9 +9,9 @@ permalink: /portfolio/index.html
 
 # Research
 
-<details markdown="1"><summary>Blog Post #1</summary>
+<details markdown="1"><summary>"Blog Post #1"</summary>
   
-## Blog Post ##
+"## Blog Post ##
 
 ### Prompt ###
 *"What I learned about Markdown and Git, and how they help me contribute to open source and improve professionally. Have you used them before? What surprised you about Markdown or Git?"*
@@ -30,7 +30,7 @@ permalink: /portfolio/index.html
   ### What Surprised You About Markdown or Git? ###
   What surprised me the most about using Markdown was how little I had to learn to use it. Markdown helps a lot with editing text to the format that you would like. I thought that I would have had to learn a completely knew coding language, but it is a lot easier than that since we mainly use symbols to edit the format of text.
 
-  What surprised me the most about Git was how it goes about saving changes to the work being done on Git. Where most apps or programs might just save one version of a file, Git gives you the entire history of changes that have been made to a project! You can go back and see where you started in a project to where you ended! It is very comforting to know that you are able to experiment while working on a project without the worry of losing all the progress you've already made.
+  What surprised me the most about Git was how it goes about saving changes to the work being done on Git. Where most apps or programs might just save one version of a file, Git gives you the entire history of changes that have been made to a project! You can go back and see where you started in a project to where you ended! It is very comforting to know that you are able to experiment while working on a project without the worry of losing all the progress you've already made."
   
 
 
