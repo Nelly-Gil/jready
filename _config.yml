@@ -1,13 +1,13 @@
 # Configs
 
-title: "Jekyll Profile"
-name: "A Free Job Market Profile in Jekyll"
-email: 
-url: "https://econ-691.github.io"
-baseurl: "/Jekyll-for-Job-Market"
-repository: "ECON-691/Jekyll-for-Job-Market"
+title: "Nelly Dayan Gil"
+name: "Jekyll Website for Nelly Gil"
+email: "gilnelly73@gmail.com"
+url: "https://Nelly-Gil.github.io"
+baseurl: "jready"
+repository: "[Nelly-Gil/jready]"
 header:
-  image: /assets/images/banner-husky.jpg
+  image: /assets/images/Headshot.JPG
 
 include:
   - _pages
@@ -37,12 +37,12 @@ minimal_mistakes_skin: "contrast"
 
 # settings for author profile
 author:
-  name   : "Mission III"
-  avatar : "/assets/images/banner-husky.jpg"
-  bio    : "My name is Mission III, and I am the official Huskie mascot at Northern Illinois University."
+  name   : "Nelly Dayan GIl"
+  avatar : "/assets/images/Headshot.JPG"
+  bio    : "Driven Finance major at Northern Illinois University with a strong foundation in economics, analytical modeling, and business strategy. Experienced in applying financial concepts through hands-on coursework and internship preparation, with growing skills in data analysis and computer science. Focused on developing a career in finance or wealth management, supported by strong communication abilities, a proactive work ethic, and a commitment to continuous growth."
   location: "DeKalb, Illinois"
-  github : 
-  linkedin: "school/northern-illinois-university" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
+  github : "Nelly-Gil"
+  linkedin: "nellygil" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
   email  : 
 
 
