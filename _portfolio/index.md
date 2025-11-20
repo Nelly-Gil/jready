@@ -9,25 +9,25 @@ permalink: /portfolio/index.html
 
 # Research
 
-<details><summary>Blog Title</summary>
+<details markdown="1"><summary>Blog Title</summary>
   Blog Contents</details>
 
-<details><summary>Blog Title</summary>
+<details markdown="1"><summary>Blog Title</summary>
   Blog Contents</details>
 
-<details><summary>Blog Title</summary>
+<details markdown="1"><summary>Blog Title</summary>
   Blog Contents</details>
 
-<details><summary>Blog Title</summary>
+<details markdown="1"><summary>Blog Title</summary>
   Blog Contents</details>
 
-<details><summary>Blog Title</summary>
+<details markdown="1"><summary>Blog Title</summary>
   Blog Contents</details>
 
-<details><summary>Blog Title</summary>
+<details markdown="1"><summary>Blog Title</summary>
   Blog Contents</details>
 
-<details><summary>Blog Title</summary>
+<details markdown="1"><summary>Blog Title</summary>
   Blog Contents</details>
 
 <h2 id="publications">Publications</h2>
