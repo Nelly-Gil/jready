@@ -13,7 +13,7 @@ header:
 Welcome to my website! I created this space to share my journey, my work, and my passion for growth, financial literacy, and personal development. My goal is to connect with others who are driven by ambition, curiosity, and the desire to build a better future for themselves and the people around them.
 
 
-### Background
+### Personal Story
 
 I’m a junior at Northern Illinois University majoring in Economics with a Financial Emphasis and minoring in Computer Science. I’m currently building experience in financial analysis, business strategy, and valuation through internships, mentorship, and real-world projects. I’m passionate about a future career in finance and wealth management, and one of my biggest goals is to help others understand financial literacy so they can gain independence and personal freedom.
 
