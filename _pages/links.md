@@ -1,7 +1,7 @@
 ---
 title: "Links"
 header:
-  image: /assets/images/niubanner2.png
+  image: Economics.jpg
 classes: wide
 permalink: /links/
 ---
